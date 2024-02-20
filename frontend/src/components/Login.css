@@ -1,0 +1,19 @@
+.login-body{
+    display: flex;
+    justify-content: center;
+}
+
+.homepage-bgimage {
+    /* background: url("../Images/images.jpg"); */
+    
+    padding: 3em;
+    height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .form-size{
+    margin: 5rem 20rem;
+    padding: 5rem;
+  }
