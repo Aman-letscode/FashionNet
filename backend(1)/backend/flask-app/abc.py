@@ -588,11 +588,11 @@ connection = pymysql.connect(
   connect_timeout=timeout,
   cursorclass=pymysql.cursors.DictCursor,
   db="FashionNet",
-  host="mysql-f08618e-patents-pioneer.a.aivencloud.com",
-  password="AVNS_Jr5rzjhptvYupdhcJwq",
+  host="localhost",
+  password="<password>",
   read_timeout=timeout,
-  port=21454,
-  user="avnadmin",
+  port=3306,
+  user="root",
   write_timeout=timeout,
 )
   
